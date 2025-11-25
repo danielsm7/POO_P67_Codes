@@ -1,0 +1,30 @@
+[23:35:48] [Usuario] -> hola
+[23:35:48] [Bot] -> Hi, what can I help you?
+[23:35:57] [Usuario] -> menu
+[23:35:57] [Bot] -> great!!
+Selecciona:
+A)robot led.
+B)Robot Explorador.
+C)Robot Medico.
+[23:36:02] [Usuario] -> a
+[23:36:04] [Bot] -> hola soy robot led
+[23:36:04] [Bot] -> j= 10
+[23:36:17] [Usuario] -> b
+[23:36:18] [Bot] -> ¡No olvide presionar el botón!
+[23:36:18] [Bot] -> hola soy robot explorador
+[23:36:18] [Bot] -> k= 150
+[23:36:34] [Usuario] -> c
+[23:36:34] [Bot] -> hola soy medico
+[01:04:22] [Usuario] -> hola
+[01:04:22] [Bot] -> Hi, what can I help you?
+[01:04:29] [Usuario] -> menu
+[01:04:29] [Bot] -> great!!
+Selecciona:
+A)robot led.
+B)Robot Explorador.
+C)Robot Medico.
+[01:04:32] [Usuario] -> c
+[01:04:32] [Bot] -> hola soy medico
+[01:04:35] [Usuario] -> a
+[01:04:35] [Bot] -> Activando robot led
+[01:04:35] [Bot] -> j= 7
