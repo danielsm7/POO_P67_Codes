@@ -1,0 +1,53 @@
+[17:52:00] [Usuario] -> hola
+[17:52:00] [Bot] -> ¡Hola! Soy tu Robot Asistente. ¿En qué puedo ayudarte hoy?, escribe 'menu' para ver las opciones.
+[17:52:06] [Usuario] -> menu
+[17:52:07] [Bot] -> 
+        Selecciona una opción:
+            a) Robot Led
+            b) Robot Explorador
+            c) Robot Medico
+        
+[17:52:09] [Usuario] -> a
+[17:52:10] [Bot] -> Iniciando Robot Led...
+[17:52:15] [Bot] -> El Robot Led está encendido.
+[17:52:21] [Usuario] -> b
+[17:52:21] [Bot] -> Iniciando Robot Explorador...
+[17:52:22] [Bot] -> ¡No olvide presionar el botón i para iniciar el recorrido!
+[17:52:41] [Bot] -> Exploración completada en 1.5 segundos.
+[17:52:47] [Usuario] -> c
+[17:52:47] [Bot] -> Iniciando Robot Medico...
+[17:52:48] [Bot] -> 
+        Selecciona una opción para el Robot Medico:
+            t) Temperatura
+            h) Humedad
+        
+[17:52:51] [Usuario] -> t
+[17:52:51] [Bot] -> Ingrese el tiempo de medicion:
+[17:52:55] [Usuario] -> 2
+[17:52:55] [Usuario] -> Tiempo de medición: 2 segundos
+[17:52:55] [Bot] -> Midiendo temperatura durante 2 segundos...
+[17:52:57] [Bot] -> La temperatura medida es: 36.5 °C
+[17:57:48] [Usuario] -> t
+[17:57:48] [Bot] -> Comando no reconocido. Por favor, escribe 'menu' para ver las opciones.
+[17:57:53] [Usuario] -> menu
+[17:57:53] [Bot] -> 
+        Selecciona una opción:
+            a) Robot Led
+            b) Robot Explorador
+            c) Robot Medico
+        
+[17:58:03] [Usuario] -> c
+[17:58:03] [Bot] -> Iniciando Robot Medico...
+[17:58:04] [Bot] -> 
+        Selecciona una opción para el Robot Medico:
+            t) Temperatura
+            h) Humedad
+        
+[17:58:07] [Usuario] -> t
+[17:58:07] [Bot] -> Ingrese el tiempo de medicion:
+[17:58:11] [Usuario] -> 3
+[17:58:11] [Usuario] -> Tiempo de medición: 3 segundos
+[17:58:12] [Bot] -> Midiendo temperatura durante 3 segundos...
+[17:58:18] [Bot] -> La temperatura medida es: 37.426134342907645 °C
+[17:58:34] [Usuario] -> adios
+[17:58:34] [Bot] -> Adios!
